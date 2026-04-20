@@ -21,6 +21,7 @@ Personal repository documenting my path into bioinformatics.
 |--------|-------|--------|
 | 01_dna_length | DNA sequence length - Vibrio cholerae ori | UC San Diego |
 | 02_pattern_count | K-mer pattern matching - sliding window algorithm | UC San Diego |
+| 02_pattern_count | DnaA box search in Vibrio cholerae oriC | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started. First exercises completed!
