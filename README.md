@@ -19,7 +19,7 @@ Personal repository documenting my path into bioinformatics.
 ## Exercises & Projects
 | Folder | Topic | Source |
 |--------|-------|--------|
-| 01_dna_length | DNA sequence length - Vibrio cholerae ori | UC San Diego |
+| 01_dna_length | DNA sequence length - Vibrio cholerae oriC | UC San Diego |
 | 02_pattern_count | K-mer pattern matching + DnaA box search (Vibrio cholerae oriC) | UC San Diego |
 
 ## Progress Log
