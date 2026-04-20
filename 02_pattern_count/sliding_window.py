@@ -7,4 +7,4 @@ def pattern_count(text, pattern):
             count +=1                                # increment counter
     return count                                     # return total match count
   
-pattern_count("GCGCG", "GCG")                        # sample: GCG appears twice
+print(pattern_count("GCGCG", "GCG"))                 # sample: GCG appears twice
