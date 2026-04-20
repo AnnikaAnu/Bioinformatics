@@ -1,2 +1,25 @@
-# Bioinformatics
-Bioinformatics and Python learning journey (MIT, Harvard edX, UC San Diego, University of Tartu)
+# Bioinformatics and Python Learning Journey
+
+Personal repository documenting my path into bioinformatics.
+
+## Background
+- SAP HCM Consultant with IT experience
+- Magister in Linguistics/ Psycholinguistics (University of Heidelberg, Germany)
+- Passionate about Biology, Genetics and Python
+
+## Active Courses
+| Course | Institution | Status |
+|--------|-------------|--------|
+| Biology Meets Programming: Bioinformatics for Beginners | Coursera / UC San Diego | 🟢 Active |
+| Bioinformatics Specialization | Coursera / UC San Diego | 🔵 Starting June 2026 |
+| Introduction to Biology - The Secret of Life | MIT OpenCourseWare | 🟢 Active |
+| CS50's Introduction to Programming with Python | Harvard edX | 🟢 Active |
+| Bioinformatics I | University of Tartu | 🔵 Starting Sept 2026 |
+
+## Exercises & Projects
+| Folder | Topic | Source |
+|--------|-------|--------|
+| 01_dna_length | DNA sequence length - Vibrio cholerae ori | UC San Diego |
+
+## Progress Log
+- 🟢 April 2026 — Repository started. First exercise completed!
