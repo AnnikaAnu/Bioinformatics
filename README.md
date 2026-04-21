@@ -24,4 +24,4 @@ Personal repository documenting my path into bioinformatics.
 | 03_frequency_map | K-mer frequency map + most frequent k-mers + 10-mer search in Vibrio cholerae oriC | UC San Diego |
 
 ## Progress Log
-- 🟢 April 2026 — Repository started. First exercises completed!
+- 🟢 April 2026 — Repository started. 
