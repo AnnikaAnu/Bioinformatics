@@ -7,6 +7,10 @@ Personal repository documenting my path into bioinformatics.
 - Magister in Linguistics/ Psycholinguistics (University of Heidelberg, Germany)
 - Passionate about Biology, Genetics and Python
 
+## Notes on Code Style
+Functions follow the course naming convention (PascalCase e.g. `FrequentWords`).
+Python convention (snake_case e.g. `frequent_words`) is also known and applied where possible.
+
 ## Active Courses
 | Course | Institution | Status |
 |--------|-------------|--------|
