@@ -22,6 +22,7 @@ Personal repository documenting my path into bioinformatics.
 | 01_dna_length | DNA sequence length - Vibrio cholerae oriC | UC San Diego |
 | 02_pattern_count | K-mer pattern matching + DnaA box search (Vibrio cholerae oriC) | UC San Diego |
 | 03_frequency_map | K-mer frequency map + most frequent k-mers + 10-mer search in Vibrio cholerae oriC | UC San Diego |
+| 04_reverse_complement | Reverse complement of DNA string | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started. 
