@@ -19,6 +19,8 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | Introduction to Biology - The Secret of Life | MIT OpenCourseWare | 🟢 Active |
 | CS50's Introduction to Programming with Python | Harvard edX | 🟢 Active |
 | Bioinformatics I | University of Tartu | 🔵 Starting Sept 2026 |
+| Introduction to Programming | University of Tartu | ✅ Completed Dec 2025 |
+| Preparation Course for the Programming Entrance Exam | University of Tartu | ✅ Completed Apr 2026 |
 
 ## Exercises & Projects
 | Folder | Topic | Source |
