@@ -15,12 +15,11 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | Course | Institution | Status |
 |--------|-------------|--------|
 | Biology Meets Programming: Bioinformatics for Beginners | Coursera / UC San Diego | 🟢 Active |
-| Bioinformatics Specialization | Coursera / UC San Diego | 🔵 Starting June 2026 |
+| Bioinformatics Specialization | Coursera / UC San Diego | 🔵 Starting July 2026 |
 | Introduction to Biology - The Secret of Life | MIT OpenCourseWare | 🟢 Active |
 | CS50's Introduction to Programming with Python | Harvard edX | 🟢 Active |
 | Bioinformatics I | University of Tartu | 🔵 Starting Sept 2026 |
-| Introduction to Programming | University of Tartu | ✅ Completed Dec 2025 |
-| Preparation Course for the Programming Entrance Exam | University of Tartu | ✅ Completed Apr 2026 |
+
 
 ## Completed Certificates
 | Certificate | Institution | Date | Hours | Language |
