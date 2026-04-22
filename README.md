@@ -36,4 +36,5 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 04_reverse_complement | Reverse complement of DNA strings (Reverse + Complement) | UC San Diego |
 
 ## Progress Log
-- 🟢 April 2026 — Repository started. 
+- 🟢 April 2026 — Repository started.
+- 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h / 9 ECTS)
