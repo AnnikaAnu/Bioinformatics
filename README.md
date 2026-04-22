@@ -22,6 +22,12 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | Introduction to Programming | University of Tartu | ✅ Completed Dec 2025 |
 | Preparation Course for the Programming Entrance Exam | University of Tartu | ✅ Completed Apr 2026 |
 
+## Completed Certificates
+| Certificate | Institution | Date | Hours |
+|-------------|-------------|------|-------|
+| Introduction to Programming | University of Tartu | December 2025 | 78h / 3 ECTS |
+| Preparation Course for the Programming Entrance Exam | University of Tartu | April 2026 | 156h / 6 ECTS |
+
 ## Exercises & Projects
 | Folder | Topic | Source |
 |--------|-------|--------|
