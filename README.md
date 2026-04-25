@@ -35,6 +35,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 03_frequency_map | K-mer frequency map + most frequent k-mers + 10-mer search in Vibrio cholerae oriC | UC San Diego |
 | 04_reverse_complement | Reverse, Complement + ReverseComplement of DNA strings | UC San Diego |
 | 05_pattern_matching | Pattern matching + DnaA box search (Vibrio cholerae + Thermotoga petrophila) | UC San Diego |
+| 06_symbol_array | Symbol array for oriC detection in circular genomes | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
