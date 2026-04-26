@@ -40,6 +40,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 08_minimum_skew | MinimumSkew to find oriC position using skew array | UC San Diego |
 | 09_hamming_distance | HammingDistance to count mismatches between DNA sequences | UC San Diego |
 | 10_approximate_pattern_matching | ApproximatePatternMatching to find patterns with at most d mismatches | UC San Diego |
+11_approximate_pattern_count | ApproximatePatternCount to count pattern occurrences with mismatches | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
