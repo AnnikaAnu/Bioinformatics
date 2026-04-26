@@ -37,6 +37,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 05_pattern_matching | Pattern matching + DnaA box search (Vibrio cholerae + Thermotoga petrophila) | UC San Diego |
 | 06_symbol_array | Symbol array for oriC detection in circular genomes | UC San Diego |
 | 07_skew_array | SkewArray to track G-C difference for oriC detection | UC San Diego |
+| 08_minimum_skew | MinimumSkew to find oriC position using skew array | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
