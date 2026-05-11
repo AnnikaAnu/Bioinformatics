@@ -43,6 +43,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 11_approximate_pattern_count | ApproximatePatternCount to count pattern occurrences with mismatches | UC San Diego |
 | 12_count_motifs | Count, Profile, Consensus, Score, Pr and ProfileMostProbableKmer for motif analysis | UC San Diego |
 | 13_greedy_motif_search | GreedyMotifSearch to find transcription factor binding sites | UC San Diego |
+| 14_dosr_motif_search | GreedyMotifSearch applied to find DosR transcription factor binding sites | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
