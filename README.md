@@ -48,4 +48,5 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
-- 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h/ 9 ECTS)
+- 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h/9 ECTS)
+- 🎓 June 2026 — Completed MIT Introduction to Biology (MITx 7.00x)
