@@ -23,7 +23,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 ## Completed Certificates
 | Certificate | Institution | Date | Hours | Language |
 |-------------|-------------|------|-------|----------|
-| Introduction to Biology – The Secret of Life | MIT (MITx 7.00x) | June 2026 | 100h | English | 
+| Introduction to Biology – The Secret of Life | MIT (MITx 7.00x) | June 2026 | 100h | English |  
 | Preparation Course for the Programming Entrance Exam | University of Tartu | April 2026 | 156h/ 6 ECTS | Python |
 | Introduction to Programming | University of Tartu | December 2025 | 78h/ 3 ECTS | Python |
 
