@@ -15,9 +15,9 @@ Dna = ["TTACCTTAAC",
 def Motifs(Profile, Dna):
     """Return the profile-most probable k-mer from each string in Dna."""
     motifs = []
-    k = len(Profile["A"])                              # k-mer length from profile width
-    for i in range(len(Dna)):                          # iterate over each string in Dna
-        motifs.append(ProfileMostProbableKmer(Dna[i], k, Profile))
+    k = len(Profile["A"])                                             # k-mer length from profile width
+    for i in range(len(Dna)):                                         # iterate over each string in Dna
+        motifs.append(ProfileMostProbableKmer(Dna[i], k, Profile))    # add best k-mer for this string
     return motifs
 
 
