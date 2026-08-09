@@ -58,4 +58,4 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 - 🟢 April 2026 — Repository started
 - 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h/ 9 ECTS)
 - 🎓 June 2026 — Completed MIT Introduction to Biology (MITx 7.00x)
-- 🎓 August 2026 — Completed "Biology Meets Programming: Bioinformatics for Beginners" (UC San Diego, Coursera)
+- 🎓 August 2026 — Completed "Biology Meets Programming: Bioinformatics for Beginners" (UC San Diego)
