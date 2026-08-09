@@ -1,3 +1,5 @@
+import random
+
 def ProfileGeneratedString(Text, profile, k):
     """Return a randomly generated k-mer from Text, chosen with probabilities from profile."""
     n = len(Text)
@@ -22,10 +24,6 @@ def Normalize(Probabilities):
     for key in Probabilities:                           # iterate over each k-mer
         Probabilities[key] = Probabilities[key] / total # rescale probability
     return Probabilities
-
-
-import random
-
 
 def WeightedDie(Probabilities):
     """Return a k-mer chosen randomly, weighted by the values in Probabilities."""
