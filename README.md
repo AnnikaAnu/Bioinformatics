@@ -48,6 +48,11 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 16_greedy_motif_search_pseudocounts | GreedyMotifSearch with pseudocounts, applied to DosR dataset (k=15) | UC San Diego |
 | 17_motifs_from_profile | Motifs(Profile, Dna) — profile-most probable k-mers across all strings | UC San Diego |
 | 18_random_motifs | RandomMotifs — random k-mer selection per string using random.randint() | UC San Diego |
+| 19_randomized_motif_search | RandomizedMotifSearch — iterative profile-based motif refinement | UC San Diego |
+| 20_normalize | Normalize(Probabilities) — rescale probability dictionary to sum to 1 | UC San Diego |
+| 21_weighted_die | WeightedDie(Probabilities) — random k-mer choice weighted by probability | UC San Diego |
+| 22_profile_generated_string | ProfileGeneratedString — weighted-random k-mer selection from a profile | UC San Diego |
+| 23_gibbs_sampler | GibbsSampler — randomized motif search via single-motif iterative resampling | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
