@@ -46,6 +46,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 14_dosr_motif_search | GreedyMotifSearch applied to find DosR transcription factor binding sites | UC San Diego |
 | 15_motifs_pseudocounts | CountWithPseudocounts + ProfileWithPseudocounts (Laplace's Rule of Succession) | UC San Diego |
 | 16_greedy_motif_search_pseudocounts | GreedyMotifSearch with pseudocounts, applied to DosR dataset (k=15) | UC San Diego |
+| 17_motifs_from_profile | Motifs(Profile, Dna) — profile-most probable k-mers across all strings | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
