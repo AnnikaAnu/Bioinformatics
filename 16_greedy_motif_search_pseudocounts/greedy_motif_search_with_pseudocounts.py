@@ -25,10 +25,10 @@ def CountWithPseudocounts(Motifs):
     t = len(Motifs)                       # number of motifs (rows)
     k = len(Motifs[0])                    # length of each motif (number of columns)
     
-    for symbol in "ACGT":                 # initialize with pseudocount instead of zero
+    for symbol in "ACGT":                 
         count[symbol] = []
         for j in range(k):                
-            count[symbol].append(1)      
+            count[symbol].append(1)       # initialize with pseudocount instead of zero
 
     for i in range(t):                    # fill count matrix
         for j in range(k):
@@ -40,7 +40,7 @@ def CountWithPseudocounts(Motifs):
 
 def ProfileWithPseudocounts(Motifs):
     """Return the profile matrix of Motifs as nucleotide frequencies, based on pseudocounts."""
-    k = len(Motifs[0])
+    k = len(Motifs[0])                                           # length of each motif (number of columns)
     profile = {}
     count = CountWithPseudocounts(Motifs)                        # get nucleotide count matrix (with pseudocounts)
     t = sum(count[symbol][0] for symbol in "ACGT")               # column sum after pseudocounts
