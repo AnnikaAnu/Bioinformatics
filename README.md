@@ -47,6 +47,7 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 | 15_motifs_pseudocounts | CountWithPseudocounts + ProfileWithPseudocounts (Laplace's Rule of Succession) | UC San Diego |
 | 16_greedy_motif_search_pseudocounts | GreedyMotifSearch with pseudocounts, applied to DosR dataset (k=15) | UC San Diego |
 | 17_motifs_from_profile | Motifs(Profile, Dna) — profile-most probable k-mers across all strings | UC San Diego |
+| 18_random_motifs | RandomMotifs — random k-mer selection per string using random.randint() | UC San Diego |
 
 ## Progress Log
 - 🟢 April 2026 — Repository started
