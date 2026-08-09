@@ -8,9 +8,9 @@ def ProfileWithPseudocounts(Motifs):
     t = sum(count[symbol][0] for symbol in "ACGT")               # column sum after pseudocounts
     
     for symbol in "ACGT":
-        profile[symbol] = []                                 # initialize empty list for each nucleotide
+        profile[symbol] = []                                     # initialize empty list for each nucleotide
         for j in range(k):
-            profile[symbol].append(count[symbol][j] / t)     # divide by column total incl. pseudocounts
+            profile[symbol].append(count[symbol][j] / t)         # divide by column total incl. pseudocounts
     return profile
 
 def CountWithPseudocounts(Motifs):
@@ -28,7 +28,7 @@ def CountWithPseudocounts(Motifs):
     for i in range(t):                    # fill count matrix
         for j in range(k):
             symbol = Motifs[i][j]
-            count[symbol][j] += 1          # increment count for nucleotide at column j
+            count[symbol][j] += 1         # increment count for nucleotide at column j
 
     return count
 
