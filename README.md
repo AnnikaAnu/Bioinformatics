@@ -11,6 +11,9 @@ Personal repository documenting my path into bioinformatics.
 Functions follow the course naming convention (PascalCase e.g. `FrequentWords`).
 Python convention (snake_case e.g. `frequent_words`) is also known and applied where possible.
 
+## About This Code
+All code is my own implementation, written while learning. Shared to document progress, not as a solution set.
+
 ## Active Courses
 | Course | Institution | Status |
 |--------|-------------|--------|
