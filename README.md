@@ -5,7 +5,7 @@ Personal repository documenting my path into bioinformatics.
 ## Background
 - SAP Consultant and Developer
 - Magister in Linguistics/ Psycholinguistics (University of Heidelberg, Germany)
-- Passionate about Biology, Genetics and Python
+- Passionate about biology, genetics and Python
 
 ## Notes on Code Style
 Functions follow the course naming convention (PascalCase e.g. `FrequentWords`).
@@ -24,7 +24,7 @@ All code is my own implementation, written while learning. Shared to document pr
 | Certificate | Institution | Date | Hours | Language |
 |-------------|-------------|------|-------|----------|
 | Biology Meets Programming: Bioinformatics for Beginners | Coursera / UC San Diego | August 2026 | 50h | Python |
-| Introduction to Biology – The Secret of Life | MIT (MITx 7.00x) | June 2026 | 100h | English |  
+| Introduction to Biology – The Secret of Life | MIT (MITx 7.00x) | June 2026 | 100h | - |  
 | Preparation Course for the Programming Entrance Exam | University of Tartu | April 2026 | 156h/ 6 ECTS | Python |
 | Introduction to Programming | University of Tartu | December 2025 | 78h/ 3 ECTS | Python |
 
