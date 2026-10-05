@@ -60,4 +60,4 @@ All code is my own implementation, written while learning. Shared to document pr
 - 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h/ 9 ECTS)
 - 🎓 June 2026 — Completed MIT Introduction to Biology (MITx 7.00x)
 - 🎓 August 2026 — Completed Biology Meets Programming: Bioinformatics for Beginners (UC San Diego)
-- 🟢 August 2026 - Started Introduction to Data Science and Bioinformatics I (University of Tartu)
+- 🟢 August 2026 — Started Introduction to Data Science and Bioinformatics I (University of Tartu)
