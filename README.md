@@ -3,7 +3,7 @@
 Personal repository documenting my path into bioinformatics.
 
 ## Background
-- SAP HCM Consultant with IT experience
+- SAP Consultant and Developer
 - Magister in Linguistics/ Psycholinguistics (University of Heidelberg, Germany)
 - Passionate about Biology, Genetics and Python
 
@@ -14,10 +14,8 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 ## Active Courses
 | Course | Institution | Status |
 |--------|-------------|--------|
-| Bioinformatics Specialization | Coursera / UC San Diego | 🟢 Active |
-| CS50's Introduction to Programming with Python | Harvard edX | 🟢 Active |
-| Bioinformatics I | University of Tartu | 🔵 Starting Sept 2026 |
-
+| Introduction to Data Science | University of Tartu | 🟢 Active |
+| Bioinformatics I | University of Tartu | 🟢 Active |
 
 ## Completed Certificates
 | Certificate | Institution | Date | Hours | Language |
@@ -58,4 +56,5 @@ Python convention (snake_case e.g. `frequent_words`) is also known and applied w
 - 🟢 April 2026 — Repository started
 - 🎓 April 2026 — Completed 2 Python courses at University of Tartu (234h/ 9 ECTS)
 - 🎓 June 2026 — Completed MIT Introduction to Biology (MITx 7.00x)
-- 🎓 August 2026 — Completed "Biology Meets Programming: Bioinformatics for Beginners" (UC San Diego)
+- 🎓 August 2026 — Completed Biology Meets Programming: Bioinformatics for Beginners (UC San Diego)
+- 🟢 August 2026 - Started Introduction to Data Science and Bioinformatics I (University of Tartu)
